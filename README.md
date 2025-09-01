@@ -1,11 +1,79 @@
-![Captura de tela 2025-05-01 130841](https://github.com/user-attachments/assets/9a26962c-5ee7-47cc-98c5-390b62c9f1f4)
-![Captura de tela 2025-05-01 130906](https://github.com/user-attachments/assets/b8943058-0af2-4d70-a6e5-52014b985589)
-![Captura de tela 2025-05-01 130946](https://github.com/user-attachments/assets/60611a9d-13ea-44d9-ad48-ce00d4e412ca)
-![Captura de tela 2025-05-01 130958](https://github.com/user-attachments/assets/45ed7adf-6aea-4d70-970f-f181e1436062)
-![Captura de tela 2025-05-01 131046](https://github.com/user-attachments/assets/e51dd348-e971-4d17-9cbd-ff7540d57ed0)
-![Captura de tela 2025-05-01 131103](https://github.com/user-attachments/assets/fa91d230-f2b3-49b0-9ca4-ec7265392a4f)
-![Captura de tela 2025-05-01 131135](https://github.com/user-attachments/assets/3e6fd472-e3d0-4db3-ad1f-6f71fc2d0bdf)
-![Captura de tela 2025-05-01 131153](https://github.com/user-attachments/assets/df765631-2241-4d9c-a639-e00bb50c07a4)
-![Captura de tela 2025-05-01 131226](https://github.com/user-attachments/assets/1acfd23c-9af8-47a3-8d7d-89417a6a6caf)
-![Captura de tela 2025-05-01 131258](https://github.com/user-attachments/assets/bcb58114-0b98-47a2-a95d-a532c8914bae)
-![Captura de tela 2025-05-01 131804](https://github.com/user-attachments/assets/1716f678-4a89-4378-9aae-a2c9a1dac01d)
+# 🛒 Métricas de Loja
+
+Análises práticas para entender desempenho de lojas: receita, categorias, satisfação do cliente, produtos e frete — tudo em um fluxo claro e visual.  
+Decisões melhores, com menos achismo. ✨
+
+---
+
+## 🎯 Objetivo
+
+Transformar dados brutos de vendas em insights acionáveis:
+- 📈 Entender faturamento e sazonalidade
+- 🧭 Mapear vendas por categoria
+- ⭐ Medir a satisfação dos clientes
+- 📦 Ver o que mais (e menos) sai
+- 🚚 Enxergar impacto de frete
+
+---
+
+## 📦 O que este projeto entrega
+
+- Scripts prontos para:
+  - 🔁 Importar e padronizar dados
+  - 🧹 Tratar e validar variáveis (datas, valores, locais)
+  - 📊 Gerar gráficos e resumos executivos
+- Visualizações de:
+  - Faturamento por loja/local
+  - Vendas por categoria
+  - Média de avaliações
+  - Ranking de produtos
+  - Comparativo de frete
+
+---
+
+## 🧠 Quando usar
+
+- 📍 Precisa priorizar lojas/categorias
+- 💬 Quer embasar decisões com dados
+- 🧪 Validar hipóteses (ex.: “frete alto derruba venda?”)
+- 🧭 Identificar onde otimizar estoque, logística e atendimento
+
+---
+
+
+---
+
+## 🧰 Tecnologias
+
+- 🐍 Python (Pandas, Matplotlib)
+- 🗒️ Jupyter/Colab (notebooks opcionais)
+- 🧹 Boas práticas de limpeza e validação de dados
+
+---
+
+## 📌 Boas práticas de leitura dos insights
+
+- Compare gráficos sempre em pares (ex.: categoria vs frete)  
+- Priorize tendências, não pontos isolados  
+- Use as avaliações para contextualizar quedas de receita  
+- Valide outliers antes de decidir (picos podem ser promoções)
+
+---
+
+## 🚀 Próximos passos (sugestão)
+
+- 🔗 Integrar com dashboards (Looker/Power BI/Metabase)
+- 🧮 Adicionar métricas de margem e ticket médio
+- 📍 Criar mapas por região (lat/lon)
+- 🤖 Automatizar pipeline (CI/CD + agendamentos)
+
+---
+
+## 👤 Autoria
+
+- Andre Mateus Passos • edracky3@gmail.com 
+- Sugestões e melhorias são bem-vindas! ✍️
+
+---
+
+
